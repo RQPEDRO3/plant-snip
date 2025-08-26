@@ -1,0 +1,7 @@
+# Ignore build products and intermediate files
+DerivedData/
+*.xcworkspace
+*.xcuserstate
+*.xcuserdata
+*.DS_Store
+build/
